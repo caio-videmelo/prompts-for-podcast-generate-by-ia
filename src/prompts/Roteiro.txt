@@ -1,0 +1,28 @@
+Alterações Estruturais no Cérebro de Usuários de Cocaína
+
+Olá, pessoal! Bem-vindos ao nosso podcast de divulgação científica. Eu sou o Caio e hoje vamos falar sobre um tema muito importante e atual: as alterações estruturais no cérebro de usuários de cocaína. Esse episódio é baseado na minha dissertação de mestrado, disponível na Biblioteca Digital de Teses e Dissertações da USP. Vamos entender como o uso de cocaína afeta diferentes regiões do cérebro e o que isso pode nos dizer sobre a vulnerabilidade à recaída. Vamos começar!
+
+O uso de cocaína está ligado a várias doenças graves. Estudos mostram anormalidades na substância cinzenta em várias regiões do cérebro de usuários de cocaína, especialmente nas áreas pré-frontal, temporal e cerebelar. No entanto, os resultados entre os estudos têm sido inconsistentes. Nosso estudo investigou essas alterações em pacientes, comparando com um grupo controle, e analisou a relação desses resultados com variáveis do uso de cocaína e predição de recaídas. Nossa hipótese era que os pacientes teriam alterações significativas na área pré-frontal, associadas a um uso mais intenso de cocaína e a uma maior vulnerabilidade a recaídas.
+
+Vamos falar um pouco sobre como conduzimos nosso estudo. Participaram 42 pacientes com transtorno por uso de cocaína e 36 controles. Os critérios de inclusão foram idade entre 18 e 45 anos, diagnóstico confirmado pela SCID-IV e pelo menos 4 anos de educação formal.
+
+Os pacientes estavam em um programa de internação de 4 semanas no Hospital Universitário da USP. Eles tinham horários restritos para fumar e foram monitorados para uso recente de cocaína via exames de urina.
+
+Os controles foram recrutados da comunidade local e também avaliados usando a SCID-IV. O estudo foi aprovado pelo Comitê de Ética (CAPPesq) e conduzido conforme a Declaração de Helsinque.
+
+Aquisição de Imagens: Utilizamos ressonância magnética (RM) 3D T1 para obter as imagens do cérebro dos participantes.
+
+:Processamento das Imagens:
+As imagens foram processadas com o software SPM 12, reorientadas, segmentadas e normalizadas para o espaço MNI.
+
+Análises Estatísticas:
+Usamos testes t de Student, testes de Mann-Whitney e testes exatos de Fisher para analisar os dados. As análises de neuroimagem incluíram a densidade de substância cinzenta de todo o cérebro e correções SVC com SPM 12.
+
+Resultados:
+Na análise correlacional, encontramos uma associação inversa entre alterações na substância cinzenta na porção triangular do giro frontal inferior esquerdo e o uso recente de cocaína. Além disso, alterações na substância cinzenta no hipocampo esquerdo previram recaídas no uso de cocaína três meses depois. Alterações na estrutura do cerebelo também foram associadas a uma maior vulnerabilidade à recaída.
+
+Encontramos alterações significativas na estrutura do córtex pré-frontal associadas ao uso recente de cocaína em pacientes. As características estruturais da substância cinzenta no hipocampo e no cerebelo, no início do estudo, previram recaídas ao longo do tempo. Isso indica a relevância clínica dessas áreas do cérebro no tratamento da dependência.
+
+Gostaria de agradecer ao Conselho Brasileiro de Desenvolvimento Científico e Tecnológico, à Fundação de Amparo à Pesquisa do Estado de São Paulo e à Coordenação de Aperfeiçoamento de Pessoal de Nível Superior pelo apoio financeiro. Os autores declaram que não houve conflito de interesse na pesquisa. É importante ressaltar que este roteiro de podcast foi realizado utilizando ChatGPT 4.0 e a voz não é minha, é uma voz também gerada por inteligência artificial através da plataforma Eleven Labs.
+
+Esse foi um resumo do estudo sobre as alterações estruturais no cérebro de usuários de cocaína. Se você se interessou pelo tema, não deixe de conferir a dissertação completa na Biblioteca Digital de Teses e Dissertações da USP. Obrigado por ouvir e até o próximo episódio!
